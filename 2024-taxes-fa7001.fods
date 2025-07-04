@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2025-07-01T15:00:23.791284625</meta:creation-date><dc:date>2025-07-02T16:19:09.800149768</dc:date><meta:editing-duration>PT1H36M2S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="241" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2025-07-01T15:00:23.791284625</meta:creation-date><dc:date>2025-07-04T11:25:48.609443289</dc:date><meta:editing-duration>PT2H52M11S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="366" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">16683</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">29552</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">46646</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">27294</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
-      <config:config-item-map-entry config:name="Jap2Eng">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">60</config:config-item>
+      <config:config-item-map-entry config:name="Translations">
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -27,8 +27,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="fa7001">
-       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -41,7 +41,7 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">Jap2Eng</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">fa7001</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1848</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -99,7 +99,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">oAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">oAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
    <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
@@ -114,7 +114,7 @@
    <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item-map-named config:name="ScriptConfiguration">
-    <config:config-item-map-entry config:name="Jap2Eng">
+    <config:config-item-map-entry config:name="Translations">
      <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
     </config:config-item-map-entry>
     <config:config-item-map-entry config:name="fa7001">
@@ -129,7 +129,9 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
@@ -212,133 +214,96 @@
   </style:style>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.6in"/>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.5327in"/>
   </style:style>
-  <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.6965in"/>
-  </style:style>
-  <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.7043in"/>
-  </style:style>
-  <style:style style:name="co7" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.3965in"/>
-  </style:style>
-  <style:style style:name="co8" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.1465in"/>
-  </style:style>
-  <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
-  </style:style>
-  <style:style style:name="co9" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.0535in"/>
-  </style:style>
-  <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.7291in"/>
-  </style:style>
-  <style:style style:name="co11" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.8118in"/>
-  </style:style>
-  <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.2575in"/>
-  </style:style>
-  <style:style style:name="co14" style:family="table-column">
+  <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.7693in"/>
   </style:style>
-  <style:style style:name="co15" style:family="table-column">
+  <style:style style:name="co3" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="3.7984in"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.6in"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.1575in"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.7043in"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.3965in"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.1465in"/>
+  </style:style>
+  <style:style style:name="co10" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.0535in"/>
+  </style:style>
+  <style:style style:name="co11" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.7291in"/>
+  </style:style>
+  <style:style style:name="co12" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.0047in"/>
+  </style:style>
+  <style:style style:name="co13" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2575in"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="0.3311in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.2173in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2173in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.3311in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:vertical-align="middle"/>
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
   </style:style>
-  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000" style:vertical-align="middle"/>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-  </style:style>
-  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10122">
-   <style:table-cell-properties fo:border="0.74pt solid #000000"/>
-  </style:style>
-  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border="none"/>
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:vertical-align="middle"/>
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="DejaVu Sans" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="DejaVu Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:table-cell-properties fo:border="0.74pt solid #000000"/>
   </style:style>
   <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border="0.74pt solid #000000"/>
-  </style:style>
-  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="start" fo:margin-left="0in"/>
-  </style:style>
-  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:background-color="#dddddd" style:text-align-source="fix" style:repeat-content="false"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border="0.74pt solid #000000"/>
-  </style:style>
-  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:background-color="#dddddd" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border="none"/>
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#ffff00" fo:border-left="0.74pt solid #000000" fo:border-right="none" fo:border-top="0.74pt solid #000000"/>
   </style:style>
   <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
   </style:style>
-  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
   </style:style>
-  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#ffff00" fo:border-left="none" fo:border-right="none" fo:border-top="0.74pt solid #000000"/>
   </style:style>
   <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap"/>
@@ -349,17 +314,45 @@
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="start" fo:margin-left="0in"/>
   </style:style>
+  <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffff00" style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+  </style:style>
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border="0.74pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#81d41a" style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+  </style:style>
   <style:style style:name="ce32" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
   </style:style>
-  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10122">
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10122">
    <style:table-cell-properties fo:border="0.74pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.74pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border="none"/>
+  </style:style>
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border="none"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
@@ -388,539 +381,737 @@
  <office:body>
   <office:spreadsheet>
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
-   <table:table table:name="Jap2Eng" table:style-name="ta1">
-    <table:table-column table:style-name="co14" table:default-cell-style-name="ce24"/>
-    <table:table-column table:style-name="co15" table:default-cell-style-name="ce24"/>
+   <table:content-validations>
+    <table:content-validation table:name="val1" table:condition="of:cell-content-is-in-list([Translations.$B$2:.$Z$2])" table:allow-empty-cell="false" table:display-list="unsorted" table:base-cell-address="fa7001.C1">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+   </table:content-validations>
+   <table:table table:name="Translations" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="3" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="3" table:default-cell-style-name="ce5"/>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce22" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce1"/>
+     <table:table-cell table:style-name="ce3" table:formula="of:=SUBSTITUTE(ADDRESS(1;COLUMN();4);&quot;1&quot;;&quot;&quot;)" office:value-type="string" office:string-value="B" calcext:value-type="string">
+      <text:p>B</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" table:formula="of:=SUBSTITUTE(ADDRESS(1;COLUMN();4);&quot;1&quot;;&quot;&quot;)" office:value-type="string" office:string-value="C" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" table:formula="of:=SUBSTITUTE(ADDRESS(1;COLUMN();4);&quot;1&quot;;&quot;&quot;)" office:value-type="string" office:string-value="D" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" table:formula="of:=SUBSTITUTE(ADDRESS(1;COLUMN();4);&quot;1&quot;;&quot;&quot;)" office:value-type="string" office:string-value="E" calcext:value-type="string">
+      <text:p>E</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="17">
       <text:p>Title &amp; General Information</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="Default"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Japanese</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>English</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Italian</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>French</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>年分収支内訳書（一般用）</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Income and Expenditure Statement (General Use)</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>提出用</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>For Submission</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>令和○○年分以前用</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>For Reiwa ○○ Year and Earlier</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>氏名（フリガナ）</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Name (Furigana)</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nome (Furigana)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nom (Furigana)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>氏名</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nome</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nom</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>電話番号（自宅）</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Phone Number (Home)</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Numero di telefono (casa)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Numéro de téléphone (domicile)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>電話番号（事業所）</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Phone Number (Office)</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Numero di telefono (ufficio)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Numéro de téléphone (bureau)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>住所</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Address</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Indirizzo</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Adresse</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>事業所所在地</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Business Location</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Sede dell&apos;attività</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Lieu d&apos;activité</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>業種名</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Type of Business</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tipo di attività</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Type d&apos;activité</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>加入団体名</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Affiliated Group Name</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>屋号</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Business Name</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>税務署</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Tax Office</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>所在地</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Location</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Luogo</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Location</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>氏名（名称）</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Name (or Company Name)</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>税理士登録番号</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Tax Accountant Registration Number</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce25" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="15">
       <text:p>Income and Expenditure Section (Left Column)</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce26"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>売上（収入）金額</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Sales (Income) Amount</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>事業専用</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Business Use Only</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>兼業</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Side Business</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>全その他の収入</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>All Other Income</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro2">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>小計（1＋2＋3）</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Subtotal (1+2+3)</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>仕入金額</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Purchase Amount</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro2">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>小計（4）</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Subtotal (4)</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>給与賃金</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Salaries and Wages</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>外注工賃</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Outsourcing Wages</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>減価償却費</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Depreciation Expenses</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>貸倒金</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Bad Debts</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>地代家賃</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Land/House Rent</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>利子割引料</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Interest &amp; Discounts</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>租税公課</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Taxes &amp; Public Dues</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>荷造運賃</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Packing &amp; Shipping</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce22" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="12">
       <text:p>Expenses Section (Middle Column)</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="Default"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>水道光熱費</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>Utilities (Water, Electricity, etc.)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>旅費交通費</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Travel and Transportation Expenses</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>通信費</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Communication Expenses</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>広告宣伝費</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Advertising Expenses</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>接待交際費</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Entertainment Expenses</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>損害保険料</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Casualty Insurance</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>消耗品費</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Supplies Expense</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>福利厚生費</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Employee Welfare Expense</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>その他（人分）</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Other (Number of People)</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>計</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Total</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Totale</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Total</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>繰越損失</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Loss Carried Forward</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>専従者控除 ※</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Special Deduction for Family Employees ※</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="6">
+      <text:p>Deails of Salary and Others (Right Side)</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>所得金額</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Income Amount</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce22" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>Deails of Salary and Others (Right Side)</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:style-name="Default"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>給料賃金の内訳</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Breakdown of Salaries and Wages</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>氏名（従業員等）</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Name (of Employee)</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>給料賃金</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Salary/Wage</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>賞与</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Bonus</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>合計</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Total</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Totale</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Total</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
-      <text:p>所得税及び復興特別所得税の源泉徴収税額</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
-      <text:p>Income Tax &amp; Special Reconstruction Income Tax Withheld</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce22" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="5">
       <text:p>Tax Accountant, Legal Fee, etc.</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="Default"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>所得税及び復興特別所得税の源泉徴収税額</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>Income Tax &amp; Special Reconstruction Income Tax Withheld</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>税理士・弁護士等の報酬・料金の内訳</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Breakdown of Tax Accountant/Lawyer Fees</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>支払先の住所・氏名</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Payee’s Address and Name</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>そのうち復興特別所得税</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Including Special Reconstruction Income Tax</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>報酬等の金額</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Total Remuneration</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="4">
+      <text:p>Family Employees Section</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>源泉徴収税額</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Withholding Tax Amount</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce22" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>Family Employees Section</text:p>
-     </table:table-cell>
-     <table:covered-table-cell table:style-name="Default"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>事業専従者の氏名等 ※</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Name of Family Employees ※</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>氏名</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Name</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>続柄</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Relationship</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:covered-table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>従事月数</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
       <text:p>Number of Months Engaged</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
    </table:table>
    <table:table table:name="fa7001" table:style-name="ta1">
-    <table:table-column table:style-name="co4" table:default-cell-style-name="ce24"/>
-    <table:table-column table:style-name="co5" table:default-cell-style-name="ce24"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="ce24"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="ce32"/>
-    <table:table-column table:style-name="co8" table:number-columns-repeated="2" table:default-cell-style-name="ce34"/>
-    <table:table-column table:style-name="co3" table:default-cell-style-name="ce24"/>
-    <table:table-column table:style-name="co9" table:default-cell-style-name="ce24"/>
-    <table:table-column table:style-name="co10" table:default-cell-style-name="ce24"/>
-    <table:table-column table:style-name="co3" table:default-cell-style-name="ce32"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="ce34"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="ce34"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce32"/>
+    <table:table-column table:style-name="co9" table:number-columns-repeated="2" table:default-cell-style-name="ce18"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co11" table:default-cell-style-name="ce24"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce32"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="ce18"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="ce18"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>Click to change language:</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce13" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>English</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:formula="of:=INDEX([Translations.B$1:.E$1];MATCH([.C1];[Translations.B$2:.E$2];0))" office:value-type="string" office:string-value="C" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce19"/>
+     <table:table-cell table:style-name="ce26" table:number-columns-repeated="5"/>
+    </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p>Reiwa ____ year ____ month ____ day</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="4"/>
-     <table:table-cell table:style-name="ce23" table:formula="of:=[Jap2Eng.B10]" office:value-type="string" office:string-value="Address" calcext:value-type="string">
+     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="Default"/>
+     <table:table-cell table:style-name="Default" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=INDIRECT(&quot;Translations.&quot; &amp; [.$D$1] &amp; &quot;10&quot;)" office:value-type="string" office:string-value="Address" calcext:value-type="string">
       <text:p>Address</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -931,12 +1122,12 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Default" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce33" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="2">
-      <text:p>Office Location</text:p>
+     <table:table-cell table:style-name="ce17" table:formula="of:=INDIRECT(&quot;Translations.&quot; &amp; [.$D$1] &amp; &quot;16&quot;)" office:value-type="string" office:string-value="Location" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="2">
+      <text:p>Location</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:style-name="ce24" table:number-columns-spanned="1" table:number-rows-spanned="2"/>
-     <table:table-cell table:style-name="ce26" table:formula="of:=[Jap2Eng.B8]" office:value-type="string" office:string-value="Phone Number (Home)" calcext:value-type="string">
+     <table:table-cell table:style-name="ce5" table:number-columns-spanned="1" table:number-rows-spanned="2"/>
+     <table:table-cell table:style-name="ce28" table:formula="of:=INDIRECT(&quot;Translations.&quot; &amp; [.$D$1] &amp; &quot;8&quot;)" office:value-type="string" office:string-value="Phone Number (Home)" calcext:value-type="string">
       <text:p>Phone Number (Home)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce26"/>
@@ -946,8 +1137,8 @@
      <table:table-cell table:style-name="Default" table:number-columns-repeated="7"/>
      <table:covered-table-cell/>
      <table:table-cell table:style-name="ce26"/>
-     <table:covered-table-cell table:style-name="ce24"/>
-     <table:table-cell table:style-name="ce26" table:formula="of:=[Jap2Eng.B9]" office:value-type="string" office:string-value="Phone Number (Office)" calcext:value-type="string">
+     <table:covered-table-cell table:style-name="ce5"/>
+     <table:table-cell table:style-name="ce28" table:formula="of:=INDIRECT(&quot;Translations.&quot; &amp; [.$D$1] &amp; &quot;9&quot;)" office:value-type="string" office:string-value="Phone Number (Office)" calcext:value-type="string">
       <text:p>Phone Number (Office)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce26"/>
@@ -955,20 +1146,20 @@
       <text:p>Telephone number</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p>Please select either “Sales, etc.” or “Miscellaneous (business)”</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="2" table:style-name="Default"/>
-     <table:table-cell table:style-name="ce33" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
       <text:p>Sales</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce33" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
       <text:p>Miscellaneous</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
       <text:p>Industry name</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -987,12 +1178,12 @@
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-spanned="4" table:number-rows-spanned="1"/>
      <table:covered-table-cell table:number-columns-repeated="2"/>
-     <table:covered-table-cell table:style-name="ce24"/>
-     <table:table-cell table:style-name="ce24" table:number-columns-spanned="2" table:number-rows-spanned="1"/>
-     <table:covered-table-cell table:style-name="ce24"/>
+     <table:covered-table-cell table:style-name="ce5"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-spanned="2" table:number-rows-spanned="1"/>
+     <table:covered-table-cell table:style-name="ce5"/>
      <table:table-cell table:number-columns-spanned="4" table:number-rows-spanned="1"/>
-     <table:covered-table-cell table:number-columns-repeated="2"/>
-     <table:covered-table-cell table:style-name="ce24"/>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce5"/>
      <table:table-cell table:style-name="ce24" table:number-columns-repeated="2"/>
      <table:table-cell/>
     </table:table-row>
@@ -1011,10 +1202,10 @@
       <text:p>￥0</text:p>
      </table:table-cell>
      <table:covered-table-cell/>
-     <table:table-cell table:style-name="ce29" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="16">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="16">
       <text:p>Fees</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce29" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="15">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="15">
       <text:p>Fees</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -1098,8 +1289,8 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce28" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="5">
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="5">
       <text:p>Costs of sales</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1"><text:p>Beginning of period (product)</text:p><text:p>Inventory Amount</text:p>
@@ -1233,7 +1424,7 @@
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce29" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="9">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="9">
       <text:p>Fee</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
@@ -1358,7 +1549,7 @@
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-spanned="2" table:number-rows-spanned="1"/>
-     <table:covered-table-cell/>
+     <table:covered-table-cell table:style-name="ce5"/>
      <table:table-cell office:value-type="float" office:value="18" calcext:value-type="float">
       <text:p>18</text:p>
      </table:table-cell>
@@ -1369,10 +1560,10 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:covered-table-cell/>
-     <table:table-cell table:style-name="ce28" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="3">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="1" table:number-rows-spanned="3">
       <text:p>Other expences</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
       <text:p>Taxes and pubblic dues</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1383,7 +1574,8 @@
      </table:table-cell>
      <table:covered-table-cell/>
      <table:table-cell table:number-columns-spanned="3" table:number-rows-spanned="1"/>
-     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:style-name="ce5"/>
      <table:table-cell office:value-type="float" office:value="19" calcext:value-type="float">
       <text:p>19</text:p>
      </table:table-cell>
@@ -1394,7 +1586,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:covered-table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
       <text:p>Packing freight</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1405,7 +1597,8 @@
      </table:table-cell>
      <table:covered-table-cell/>
      <table:table-cell table:number-columns-spanned="3" table:number-rows-spanned="1"/>
-     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:style-name="ce5"/>
      <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
       <text:p>20</text:p>
      </table:table-cell>
@@ -1416,7 +1609,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:covered-table-cell table:number-columns-repeated="2"/>
-     <table:table-cell/>
+     <table:table-cell table:style-name="ce24"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ハ</text:p>
      </table:table-cell>
@@ -1425,7 +1618,8 @@
      </table:table-cell>
      <table:covered-table-cell/>
      <table:table-cell table:number-columns-spanned="3" table:number-rows-spanned="1"/>
-     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:style-name="ce5"/>
      <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
       <text:p>21</text:p>
      </table:table-cell>

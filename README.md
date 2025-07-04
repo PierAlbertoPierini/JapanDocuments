@@ -5,7 +5,7 @@
 
 ## About This Repository
 
-This repository contains important documents related to my stay in Japan. Since many official Japanese documents are only available in Japanese or the English version are payed one, I will translate them and make them accessible here in English.
+This repository contains important documents related to my stay in Japan. Since many official Japanese documents are only available in Japanese, and other services provide translations in other languages only if paid for, I will translate them and make them accessible here in multiple languages, currently in English, French, and Italian. The translation within the spreadsheets is made automatic with just the choice of the language. Additionally, the repository is designed to easily incorporate more languages in the future to assist a broader audience. I have structured the spreadsheet tables to facilitate the addition of other languages, aiming to help more people access this information.
 
 ## File Format
 
@@ -13,7 +13,7 @@ For documents that require structured data (like forms or spreadsheets), I'll us
 
 However, if you need to convert these files to other formats (e.g., `.xlsx`, `.csv`, `.ods`), it's possible to do so using online services. One such service is [GroupDocs Conversion App](https://products.groupdocs.app/conversion/total), which allows fast and free conversions. Please note that conversions may result in minor formatting issues depending on the complexity of the file and the tool used.
 
-## Buy Me a Coffee ☕
+## Buy Me a Coffee
 
 If you find this repository helpful and would like to support the work put into maintaining and updating these documents, feel free to buy me a coffee!
 

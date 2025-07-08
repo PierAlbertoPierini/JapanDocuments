@@ -13,6 +13,11 @@ For documents that require structured data (like forms or spreadsheets), I'll us
 
 However, if you need to convert these files to other formats (e.g., `.xlsx`, `.csv`, `.ods`), it's possible to do so using online services. One such service is [GroupDocs Conversion App](https://products.groupdocs.app/conversion/total), which allows fast and free conversions. Please note that conversions may result in minor formatting issues depending on the complexity of the file and the tool used.
 
+## Files
+
+fa7001: 2024 - Taxes report form fa7001
+1040: 2025 - Notification of Commencement or Discontinuance of Sole Proprietorship
+
 ## Buy Me a Coffee
 
 If you find this repository helpful and would like to support the work put into maintaining and updating these documents, feel free to buy me a coffee!

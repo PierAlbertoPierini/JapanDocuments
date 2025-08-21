@@ -19,13 +19,15 @@ fa7001: 2024 - Taxes report form fa7001
 
 1040: 2025 - Notification of Commencement or Discontinuance of Sole Proprietorship
 
-## Buy Me a Coffee
+## Support us
 
-If you find this repository helpful and would like to support the work put into maintaining and updating these documents, feel free to buy me a coffee!
+This project is developed and maintained with passion and dedication. Your support helps me dedicate more time to improving and expanding it, instead of relying entirely on other work that takes time away from development.
 
-Support us on [Ko-fi] <a href='https://ko-fi.com/pieralberto' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+If you find value in what I do and would like to contribute, any amount—big or small—makes a difference. Your generosity not only supports the project, but also motivates me to keep building and sharing with the community.
 
-Buy me a coffee on [Buy Me a Coffee] <a href="https://www.buymeacoffee.com/pieralberto" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+👉 Support the project here https://paypal.me/PIERINIJP
+
+Thank you for being part of this journey!
 
 ## Contributing
 
